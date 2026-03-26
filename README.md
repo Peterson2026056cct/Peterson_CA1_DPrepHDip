@@ -1,4 +1,4 @@
-# Strategic Thinking Capstone Project
+# Strategic Thinking Project
 
 ## Student
 Peterson Eduardo Smapaio Silva
